@@ -61,7 +61,7 @@ const ProfileScreen = ({ navigation }) => {
         )}
         <View style={{ marginTop: 10 }}>
           <Text style={{ fontWeight: "bold", fontSize: 20 }}>
-            Mohammed Thasthakir
+            Chandran
           </Text>
         </View>
         <View style={{ marginTop: 5 }}>

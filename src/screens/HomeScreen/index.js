@@ -62,8 +62,8 @@ const HomeScreen = ({ navigation }) => {
                 alignItems: "center",
                 padding: 5,
               }}
-              title={"Mohammed Thasthakir"}
-              address={"mohammed@gmail.com"}
+              title={"Chandran"}
+              address={"chandran@gmail.com"}
               leftComponent={
                 <TouchableOpacity
                   style={{
